@@ -8,23 +8,23 @@ const bgMusic = document.getElementById('bgMusic');
   // Mảng chứa các tin nhắn và ảnh tương ứng
   const messages = [
   {
-    text: "Anh thích em nhiều lắm! 💖",
+    text: "Hi em! 👀 Hôm nay cười chưa đó?",
     gif: "https://i.pinimg.com/originals/d9/4e/ef/d94eef3fc4f4af08ac6ed201017cd4c6.gif"
   },
   {
-    text: "Em là món quà quý giá nhất đời anh 🎀",
+    text: "Anh gửi em món quà online nè 🎁 (không ăn được nhưng nhìn dễ thương 😆)",
     gif: "https://i.pinimg.com/originals/33/76/db/3376dbdfc1b6e8b71a2ea7353e4fc0f2.gif"
   },
   {
-    text: "Mỗi ngày bên em đều là ngày hạnh phúc! 🥰",
+    text: "Nếu hôm nay hơi mệt, thì xem gif này xong phải cười đó nha 😜",
     gif: "https://i.pinimg.com/originals/3a/fc/12/3afc12d6744a68594d29eb565c62244c.gif"
   },
   {
-    text: "Em làm cuộc sống anh trở nên rực rỡ hơn! 🌟",
+    text: "Nụ cười của em bằng mười thang thuốc bổ, còn anh thì… nghiện mất rồi, uống thuốc nào cũng không bằng nhìn em cười 🌟",
     gif: "https://i.pinimg.com/originals/6a/ec/ee/6aecee875e4844f34a1539054bf8aa8a.gif"
   },
   {
-    text: "Mãi bên nhau nhé, em yêu! 💕",
+    text: "Thôi em cười đi, không là anh lại phải gửi thêm quà nữa đó ❤️",
     gif: "https://i.pinimg.com/originals/be/39/be/be39be7b9b6a02e06f892798063406c8.gif"
   }
 ];
